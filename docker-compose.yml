@@ -12,7 +12,7 @@ services:
       MEMORY: '4G'
       MAX_MEMORY: '8G'
       SERVER_NAME: 'TaldykKTLtheBEST'
-      ONLINE_MODS: true
+      ONLINE_MODS: 'FALSE'
       MODE: 'survival'
       DIFFICULTY: 'normal'
     volumes:
